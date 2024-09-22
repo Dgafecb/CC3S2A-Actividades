@@ -1,0 +1,5 @@
+What is the capital of Italy?,Rome,Paris,Berlin,Madrid,Rome
+What is the largest mammal in the world?,Elephant,Blue Whale,Giraffe,Great White Shark,Blue Whale
+Who painted the ceiling of the Sistine Chapel?,Da Vinci,Picasso,Michelangelo,Van Gogh,Michelangelo
+What is the square root of 144?,10,11,12,13,12
+Which gas do plants absorb from the atmosphere?,Oxygen,Nitrogen,Carbon Dioxide,Hydrogen,Carbon Dioxide
