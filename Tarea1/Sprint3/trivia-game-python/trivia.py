@@ -27,3 +27,17 @@ class Quiz:
         else:
             self.incorrect_answers+=1
             return False
+    def load_questions(self,file):
+        #Leemos el archivo que contendra preguntas con el formato "pregunta, alternativa1, alt2, alt3, alt4, alternativa_correcta"
+        questions = []
+        with open(file,'r') as file:
+            for line in file:
+                line = line.strip()
+                if line:
+                    secciones = line.split(',')
+                    description = secciones[0].strip()
+                    options= [option.strip() for option in secciones[1:-1]]
+                    correct_answer = secciones[-1].strip()
+                    question = Question(description,options,correct_answer)
+                    questions.append(question)
+        return questions

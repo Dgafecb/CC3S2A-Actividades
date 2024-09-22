@@ -1,18 +1,5 @@
 from trivia import Quiz, Question
-def load_questions(file):
-    #Leemeos el archivo que contendra preguntas con el formato "pregunta, alternativa1, alt2, alt3, alt4, alternativa_correcta"
-    questions = []
-    with open(file,'r') as file:
-        for line in file:
-            line = line.strip()
-            if line:
-                secciones = line.split(',')
-                description = secciones[0].strip()
-                options= [option.strip() for option in secciones[1:-1]]
-                correct_answer = secciones[-1].strip()
-                question = Question(description,options,correct_answer)
-                questions.append(question)
-    return questions
+
 def quiz_scoring():
     quiz = Quiz()
     #Agregamos la capacidad de elegir la dificultad
@@ -24,7 +11,7 @@ def quiz_scoring():
     else:
         preguntas='questions_facil.txt'#Predeterminado elegira el set de preguntas facil
     #Cargamos las preguntas de questions.txt
-    questions= load_questions(preguntas)
+    questions= quiz.load_questions(preguntas)
     for question in questions:
         quiz.add_question(question)#Agregamos las preguntas al quiz
 
