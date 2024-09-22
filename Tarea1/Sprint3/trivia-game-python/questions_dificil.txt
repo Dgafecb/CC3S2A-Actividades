@@ -1,0 +1,5 @@
+What is the name of the longest river in the world?,Amazon,Nile,Yangtze,Mississippi,Nile
+What element has the atomic number 1?,Hydrogen,Helium,Lithium,Oxygen,Hydrogen
+In which year did the Titanic sink?,1912,1914,1905,1920,1912
+What is the capital of Bhutan?,Thimphu,Katmandú,Dhaka,Colombo,Thimphu
+Who wrote the play "Waiting for Godot"?,Samuel Beckett,Tennessee Williams,Harold Pinter,Arthur Miller,Samuel Beckett
