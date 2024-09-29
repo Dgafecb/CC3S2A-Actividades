@@ -28,3 +28,15 @@ Se completa la revision de la 2da historia de usuario y el sprint termina, con e
 [![image.png](https://i.postimg.cc/hj4bFYsM/image.png)](https://postimg.cc/QBPW10RW)
 
 ## Parte3 - Burndown Chart
+Empezamos generando un nuevo chart para nuestro Sprint 1
+[![image.png](https://i.postimg.cc/2S6smzjL/image.png)](https://postimg.cc/dLbHjcyJ)
+[![image.png](https://i.postimg.cc/2j7MZqVB/image.png)](https://postimg.cc/NLLdhj8g)
+## Parte 4 - Actividades de cierre de sprint
+
+Empezamos actualizando nuestros story points de nuestra historia "Deploy service to the cloud" para reflejar el trabajo hecho durante el Sprint 1
+[![image.png](https://i.postimg.cc/PfSKH1CK/image.png)](https://postimg.cc/mhF7NzNF)
+Ahora para completar el trabajo de esta historia creamos una nueva que documente el trabajo restante
+[![image.png](https://i.postimg.cc/q7Q6KxV5/image.png)](https://postimg.cc/1gnzh6zG)
+Una vez creada, podemos asignarle los story points restantes de la historia no terminada y agregarla al Product Backlog para que este lista cuando empiece el siguiente Sprint
+[![image.png](https://i.postimg.cc/JzMbBnHt/image.png)](https://postimg.cc/VdZSxzRc)
+[![image.png](https://i.postimg.cc/FsQS2RZG/image.png)](https://postimg.cc/w303N9ns)
